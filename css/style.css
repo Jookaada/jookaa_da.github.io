@@ -1,6 +1,13 @@
-h1{
+.logo{
   text-align: center;
   font-family: Arial;
   color: white;
-  outline: 5px solid black;
+  -webkit-text-stroke: 2px black;
+  text-shadow: 3px 3px #000000;
+  font-size: 200%;
+  text-decoration: none;
+}
+
+body{
+  background-color: red;
 }
