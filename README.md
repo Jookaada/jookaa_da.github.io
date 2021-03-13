@@ -1,2 +1,2 @@
-# jookaa_da.github.io
-fuck idk what i'm doing
+# jookaada.github.io
+Lil website to write stuff I think about or post updates to possible or ongoing projects.
