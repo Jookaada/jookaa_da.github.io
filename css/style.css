@@ -1,5 +1,6 @@
 h1{
   text-align: center;
   font-family: Arial;
-  color: red;
+  color: white;
+  outline: 5px solid black;
 }
